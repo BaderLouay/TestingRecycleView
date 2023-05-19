@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "124182660858",
+    "firebase_url": "https://monmedecin-d46ba-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "monmedecin-d46ba",
+    "storage_bucket": "monmedecin-d46ba.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:124182660858:android:cbbe51d0b7d3928bd82b43",
+        "android_client_info": {
+          "package_name": "com.baderlouay.monmedecin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "124182660858-ksp3047k3p5ige1sjgj8oqa1a82diplr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAY_bFbEGCESYuWTco1iSkwszUlPOxQTE8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "124182660858-ksp3047k3p5ige1sjgj8oqa1a82diplr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MonMedecin</string>
+    <string name="title_activity_doctors_list">DoctorsList</string>
+    <string name="title_activity_doctor_list">DoctorListActivity</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
